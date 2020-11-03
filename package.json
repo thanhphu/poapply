@@ -1,0 +1,25 @@
+{
+  "name": "poapply",
+  "version": "1.0.0",
+  "description": "Apply po translations to source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhphu/poapply.git"
+  },
+  "keywords": [
+    "po",
+    "poedit",
+    "pofile",
+    "poapply"
+  ],
+  "author": "Thanh Phu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thanhphu/poapply/issues"
+  },
+  "homepage": "https://github.com/thanhphu/poapply#readme"
+}
